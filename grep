@@ -1,0 +1,3 @@
+The grep command searches for a pattern in files.
+
+i.e grep ruby file.txt # will look for the word ruby in the file named file.txt
