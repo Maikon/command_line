@@ -1,0 +1,3 @@
+The wc command does a word count of the specified file.
+
+i.e wc afile.txt # will return the number of words and lines.
