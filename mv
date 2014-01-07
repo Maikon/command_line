@@ -1,0 +1,7 @@
+The mv command enables the user to move files between different locations but also for renaming a file.
+
+i.e Moving/Renaming a file assuming you're in Mumbo directory: 
+
+mv file.txt ../ # will move the file from the current directory to the one above.
+
+mv file.txt afile.txt # will rename file.txt to afile.txt
